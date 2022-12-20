@@ -1,4 +1,4 @@
-# HTML-ODEV1 [Patika.dev](https://www.patika.dev/tr)
+# HTML - Odev1 [Patika.dev](https://www.patika.dev/tr)
 
 Bu repository [Patika.dev](https://www.patika.dev/tr) Başlangıç Seviye Front-End Web Development Patikası'ndaki HTML eğitiminin 1. ödevini içermektedir.
 
