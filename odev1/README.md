@@ -1,5 +1,5 @@
-## HTML - Odev1 [Patika.dev](https://www.patika.dev/tr)
+## HTML - Assignment1
 
-Bu repository [Patika.dev](https://www.patika.dev/tr) Başlangıç Seviye Front-End Web Development Patikası'ndaki HTML eğitiminin 1. ödevini içermektedir.
+This repository [Patika.dev](https://www.patika.dev/tr) contains assignment 1 of the HTML lesson in the Beginner Front-End Web Development Path.
 
-![İlk Web Sayfam](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/odev1/image/ilkwebsayfam.png)
+![My First Page](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/odev1/image/myfirstwebpage.png)
