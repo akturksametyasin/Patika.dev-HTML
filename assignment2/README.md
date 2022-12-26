@@ -23,4 +23,4 @@ The page you made can be in a structure like the one above. In this assignment, 
 
 ## Image of My Assignment
 
-![]()
+![Continuing My Page](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/assignment2/image/continuingmypage.png)
