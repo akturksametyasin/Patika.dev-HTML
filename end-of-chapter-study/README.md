@@ -4,6 +4,16 @@ This repository contains end of chapter study of the HTML lesson in the Beginner
 
 ---
 
-## Image of My Assignment
+## Image of My Study
 
-![End Of Chapter Study](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/assignment2/image/continuingmypage.png)
+### Main Page
+
+![Main Page](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/end-of-chapter-study/image/mainpage.png)
+
+### About Us Page
+
+![About Us Page](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/end-of-chapter-study/image/aboutuspage.png)
+
+### Contact Page
+
+![Contact Page](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/end-of-chapter-study/image/contactpage.png)
