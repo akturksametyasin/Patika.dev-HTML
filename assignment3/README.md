@@ -16,4 +16,4 @@ In this assignment, we will try to write a website where we learn the recipe of 
 
 ## Image of My Assignment
 
-![Continuing My Page](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/assignment2/image/continuingmypage.png)
+![My Recipe Page](https://github.com/akturksametyasin/Patika.dev-HTML/blob/main/assignment3/image/recipewebpage.png)
