@@ -1,3 +1,3 @@
 # Patika.dev - HTML
 
-Bu repository [Patika.dev](https://www.patika.dev/tr) Başlangıç Seviye Front-End Web Development Patikası'ndaki HTML eğitimini içermektedir.
+This repository contains the HTML course in the Beginner Front-End Web Development Path at [Patika.dev](https://www.patika.dev/tr).

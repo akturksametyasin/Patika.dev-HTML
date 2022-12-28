@@ -1,6 +1,6 @@
 ## HTML - Assignment2 [Patika.dev](https://www.patika.dev/tr) 
 
-This repository contains assignment 2 of the HTML lesson in the Beginner Front-End Web Development Path at [Patika.dev](https://www.patika.dev/tr).
+This repository contains assignment 2 of the HTML course in the Beginner Front-End Web Development Path at [Patika.dev](https://www.patika.dev/tr).
 
 ---
 

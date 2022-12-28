@@ -1,6 +1,6 @@
 ## HTML - End Of Chapter Study [Patika.dev](https://www.patika.dev/tr) 
 
-This repository contains end of chapter study of the HTML lesson in the Beginner Front-End Web Development Path at [Patika.dev](https://www.patika.dev/tr).
+This repository contains end of chapter study of the HTML course in the Beginner Front-End Web Development Path at [Patika.dev](https://www.patika.dev/tr).
 
 ---
 
